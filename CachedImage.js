@@ -233,7 +233,7 @@ class CachedImage extends React.Component {
       return (
         <ContentLoader
           height={flattenStyle(imageStyle).height}
-          width={flattenStyle(imageStyle).width}
+          width="100%"
           duration={1200}
           y2="100%"
 	      primaryColor="e6e9e9"
