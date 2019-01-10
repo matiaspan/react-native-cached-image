@@ -236,6 +236,7 @@ class CachedImage extends React.Component {
           width={flattenStyle(imageStyle).width}
           duration={1200}
           y2="100%"
+	      primaryColor="e6e9e9"
         >
           <Rect
             x={0}
