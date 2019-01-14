@@ -236,7 +236,7 @@ class CachedImage extends React.Component {
           width="100%"
           duration={1200}
           y2="100%"
-	      primaryColor="e6e9e9"
+          primaryColor="#e6e9e9"
         >
           <Rect
             x={0}
